@@ -1,0 +1,9 @@
+{
+  "name": "graphql-starter",
+  "version": "1.0.0",
+  "description": "Starter pack preconfigured for graphql in express and node",
+  "main": "index.js",
+  "repository": "https://github.com/subash-poudel/graphql-starter.git",
+  "author": "Subash Poudel",
+  "license": "MIT"
+}
