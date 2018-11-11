@@ -1,0 +1,13 @@
+lib-cov
+*.seed
+*.log
+*.csv
+# API keys and secrets
+.env
+
+# Dependency directory
+node_modules
+
+# OS metadata
+.DS_Store
+Thumbs.db
